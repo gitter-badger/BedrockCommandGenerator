@@ -1,0 +1,20 @@
+{
+    "name": "Minecraft Bedrock Edition Command Generator",
+    "version": "0.0.1",
+    "main": "index.html",
+    "keywords": [
+        "Minecraft Bedrock Edition",
+        "Command Generator",
+        "Game Helper"
+    ],
+    "author": "PFiS",
+    "license": "GNU General Public License v3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PFiS1737/BedrockCommandGenerator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/PFiS1737/BedrockCommandGenerator/issues"
+    },
+    "homepage": "https://github.com/PFiS1737/BedrockCommandGenerator"
+}
